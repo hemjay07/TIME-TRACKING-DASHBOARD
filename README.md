@@ -10,11 +10,9 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Switch between viewing Daily, Weekly, and Monthly stats
 
-### Screenshot![Uploading Screenshot 2022-06-30 at 21.08.40.png…]()
-
-
-![](./screenshot.jpg)<img width="1440" alt="Screenshot 2022-06-30 at 21 10 39" src="https://user-images.githubusercontent.com/99208781/176769495-2ff139a3-ea5e-4566-aa6a-8365d7656e80.png">
-
+### Screenshot!
+![](./time-tracking-dashboard.png)
+![](./time-tracking-dashboard.png2)
 
 ### Links
 
