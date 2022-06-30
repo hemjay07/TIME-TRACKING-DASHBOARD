@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/hemjay07/TIME-TRACKING-DASHBOARD)
-- Live Site URL: [Add live site URL here](https://hemjay07.github.io/TIME-TRACKING-DASHBOARD/)
+- Solution URL: [https://github.com/hemjay07/TIME-TRACKING-DASHBOARD]
+- Live Site URL: [https://hemjay07.github.io/TIME-TRACKING-DASHBOARD/]
 
 ### Built with
