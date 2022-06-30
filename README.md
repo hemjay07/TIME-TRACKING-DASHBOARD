@@ -20,6 +20,6 @@ Users should be able to:
 - Live Site URL: [https://hemjay07.github.io/TIME-TRACKING-DASHBOARD/]
 
 ### Built with
--HTMl
--CSS
--javascript
+- HTMl
+- CSS
+- javascript
