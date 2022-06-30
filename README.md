@@ -11,8 +11,8 @@ Users should be able to:
 - Switch between viewing Daily, Weekly, and Monthly stats
 
 ### Screenshot!
-![](./time-tracking-dashboard.png)
-![](./time-tracking-dashboard.png2)
+![](./images/time-tracking-dashboard.png)
+![](./images/time-tracking-dashboard.png2)
 
 ### Links
 
